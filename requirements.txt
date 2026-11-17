@@ -1,0 +1,7 @@
+telethon
+fastapi
+uvicorn
+python-dotenv
+openai
+pymongo
+motor
